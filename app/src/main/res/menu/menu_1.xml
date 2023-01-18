@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/Plus"
+        android:title="+">
+    </item>
+    <item
+        android:id="@+id/Minus"
+        android:title="-" />
+    <item
+        android:id="@+id/Absolute_Minus"
+        android:title="|-|" />
+    <item
+        android:id="@+id/Multiply"
+        android:title="x" />
+    <item
+        android:id="@+id/Divide"
+        android:title="/" />
+    <item
+        android:id="@+id/Modulus"
+        android:title="%" />
+    <item
+        android:id="@+id/Power"
+        android:title="^" />
+    <item
+        android:id="@+id/Negative_Power"
+        android:title="^-" />
+</menu>
